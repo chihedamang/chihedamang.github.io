@@ -4,6 +4,9 @@ You can use the [editor on GitHub](https://github.com/chihedamang/chihedamang.gi
 <a href="https://sm.ms/image/zJPv3pnQyfuZeUO" target="_blank"><img src="https://i.loli.net/2021/01/29/zJPv3pnQyfuZeUO.jpg" ></a>
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+
+<a href="https://sm.ms/image/zJPv3pnQyfuZeUO" target="_blank"><img src="https://i.loli.net/2021/01/29/zJPv3pnQyfuZeUO.jpg" ></a>
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
